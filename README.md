@@ -6,12 +6,12 @@ Discord Bot API required.
 - Requirements: Python3 and PIP3
 
 Installation On Debian:
-apt-get install python3 python3-pip
+	apt-get install python3 python3-pip
 
 - Python Dependencies:
 	- ccxt
 
 - To install Python Dependencies:
-pip3 install -r requirements.txt
+	pip3 install -r requirements.txt
 
 
