@@ -1,6 +1,6 @@
 Discord-Crypto
 
-Retrieve data from major cryptocurrency exchanges usind Discord commands.
+Retrieve data from major cryptocurrency exchanges using Discord commands. This Python script uses the popular CCXT library.
 Discord Bot API required.
 
 - Requirements: Python3 and PIP3
